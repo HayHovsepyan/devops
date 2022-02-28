@@ -1,3 +1,8 @@
 # Readme file was added
 For test purpose
-remote change
+<<<<<<< HEAD
+
+=======
+
+last rebase
+>>>>>>> last rebase test
